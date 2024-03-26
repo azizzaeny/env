@@ -1,0 +1,14 @@
+{
+  "name": "@zaeny/env",
+  "version": "1.0.0",
+  "description": "read .env files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "azizzaeny",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@zaeny/literate": "^1.0.3"
+  }
+}
