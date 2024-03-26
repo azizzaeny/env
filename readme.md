@@ -81,5 +81,5 @@ node -e "var {tangle} = require('@zaeny/literate/tangle');console.log(tangle( re
 ```
 ### Changes 
  - [1.0.0] initial release, add read double quote
- 
+ - [1.0.1] add information update repositry, issues, keywords and so on 
 
