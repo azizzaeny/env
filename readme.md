@@ -38,8 +38,11 @@ env('./environment');
 
 ```
 ### Implementation
+this utility function free to copy 
 
 ```js path=index.js
+
+/* author: https://github.com/azizzaeny/env */
 
 function env(file=".env", state=process.env){
   var {readFileSync, existsSync} = require('fs');
